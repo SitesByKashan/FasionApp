@@ -1,0 +1,1 @@
+ C:\\Users\\windows10\\OneDrive\\Desktop\\fasionApp-main\\fasionApp-main\\.dart_tool\\flutter_build\\043a770e02f8fa91e93cb61d58516280\\native_assets.yaml: 
